@@ -11,8 +11,8 @@ Simple project on Laravel framework for visual test API's payment service of Tar
 
 ## Deploy project
 
-1. git clone git@github.com:tarapay/php-laravel.git
-2. cd tarapay
+1. git clone git@github.com:amirajlo/TaraPay.git
+2. cd TaraPay
 3. composer install
 4. cp .env.example .env
 5. edit  .env with Your Username,Password,Gateway
